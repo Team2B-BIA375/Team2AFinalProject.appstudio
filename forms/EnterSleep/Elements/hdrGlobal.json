@@ -31,7 +31,7 @@
   "fontStyle": "",
   "fontWeight": "bold",
   "height": "40",
-  "hidden": "",
+  "hidden": "display:none; ",
   "id": "hdrGlobal",
   "justifyContent": "",
   "left": "auto",
