@@ -1,0 +1,155 @@
+{
+  "!type": "Form",
+  "HTML": null,
+  "attributes": "",
+  "background": "",
+  "backgroundimage": "",
+  "borderColor": "",
+  "borderStyle": "",
+  "borderWidth": "",
+  "cached_js": null,
+  "cached_js_script_hash": null,
+  "children": [
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "hdrGlobal.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "lblMySleep.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "lblMySleepDate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "lblMySleepDuration.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "lblMySleepQuality.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "drpMySleepQuality.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "inptMySleepDuration.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "inptMySleepDate.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "btnMySleepSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "pgnMySleep.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "lblMySleepMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "btnNextPastSleep.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "EnterSleep",
+        "Elements",
+        "Hamburger1.json"
+      ]
+    }
+  ],
+  "class": "",
+  "designHeight": 0,
+  "designWidth": 0,
+  "expanded_pmp": null,
+  "fullScreen": "true",
+  "height": 460,
+  "id": "EnterSleep",
+  "language": "JavaScript",
+  "left": "0",
+  "locked": false,
+  "modal": "false",
+  "onhide": "",
+  "onkeypress": "",
+  "onresize": "",
+  "onshow": "",
+  "openMode": "none",
+  "parentForm": "",
+  "position": "absolute",
+  "script": null,
+  "setFocusID": "",
+  "style": "",
+  "theme": "",
+  "top": "0",
+  "width": 320
+}
