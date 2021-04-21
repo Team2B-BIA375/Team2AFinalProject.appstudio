@@ -81,6 +81,15 @@
         "Elements",
         "Button4.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "SignUp",
+        "Elements",
+        "Button7.json"
+      ]
     }
   ],
   "class": "",
