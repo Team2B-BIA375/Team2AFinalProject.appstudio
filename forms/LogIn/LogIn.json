@@ -14,81 +14,63 @@
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "LogIn",
         "Elements",
-        "signUpFirst.json"
+        "userInpt.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "LogIn",
         "Elements",
-        "signUpLast.json"
+        "passInpt.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "LogIn",
         "Elements",
-        "signUpEmail.json"
+        "submit.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "LogIn",
         "Elements",
-        "signUpUser.json"
+        "Button2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "LogIn",
         "Elements",
-        "signUpPass.json"
+        "Label3.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "LogIn",
         "Elements",
-        "Button3.json"
+        "Label4.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "LogIn",
         "Elements",
-        "Label1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SignUp",
-        "Elements",
-        "Button4.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SignUp",
-        "Elements",
-        "Button7.json"
+        "Button6.json"
       ]
     }
   ],
@@ -98,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "SignUp",
+  "id": "LogIn",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

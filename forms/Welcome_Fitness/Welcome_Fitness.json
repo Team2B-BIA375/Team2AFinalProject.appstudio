@@ -14,81 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Welcome_Fitness",
         "Elements",
-        "signUpFirst.json"
+        "Welcome_Header.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Welcome_Fitness",
         "Elements",
-        "signUpLast.json"
+        "BtnNext.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Welcome_Fitness",
         "Elements",
-        "signUpEmail.json"
+        "welcomeDate.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Welcome_Fitness",
         "Elements",
-        "signUpUser.json"
+        "lblMyDateMessage.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Welcome_Fitness",
         "Elements",
-        "signUpPass.json"
+        "drpExerciseGroup.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Welcome_Fitness",
         "Elements",
-        "Button3.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SignUp",
-        "Elements",
-        "Label1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SignUp",
-        "Elements",
-        "Button4.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SignUp",
-        "Elements",
-        "Button7.json"
+        "lblExerciseGroup.json"
       ]
     }
   ],
@@ -98,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "SignUp",
+  "id": "Welcome_Fitness",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

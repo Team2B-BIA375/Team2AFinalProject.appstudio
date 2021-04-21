@@ -14,81 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Diet",
         "Elements",
-        "signUpFirst.json"
+        "btnDiet.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Diet",
         "Elements",
-        "signUpLast.json"
+        "lblDietMainPage.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Diet",
         "Elements",
-        "signUpEmail.json"
+        "btnRecipes.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Diet",
         "Elements",
-        "signUpUser.json"
+        "btnMealsHistory.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Diet",
         "Elements",
-        "signUpPass.json"
+        "btnBacktoHomepage.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "SignUp",
+        "Diet",
         "Elements",
-        "Button3.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SignUp",
-        "Elements",
-        "Label1.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SignUp",
-        "Elements",
-        "Button4.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "SignUp",
-        "Elements",
-        "Button7.json"
+        "btnNav.json"
       ]
     }
   ],
@@ -98,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "SignUp",
+  "id": "Diet",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

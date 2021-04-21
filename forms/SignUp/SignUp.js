@@ -22,3 +22,7 @@ Button4.onclick=function(){
 }
 
 
+
+Button7.onclick=function(){
+  ChangeForm(Welcome)
+}

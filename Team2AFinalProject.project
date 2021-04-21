@@ -22,6 +22,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "LogIn",
+            "LogIn.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "SignUp",
             "SignUp.json"
           ]
@@ -32,6 +40,14 @@
             "forms",
             "Welcome",
             "Welcome.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Welcome_Fitness",
+            "Welcome_Fitness.json"
           ]
         },
         {
@@ -102,6 +118,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "Diet",
+            "Diet.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "RealDiet",
             "RealDiet.json"
           ]
@@ -120,6 +144,14 @@
             "forms",
             "Recipes",
             "Recipes.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "SleepWelcomePage",
+            "SleepWelcomePage.json"
           ]
         },
         {
@@ -161,14 +193,6 @@
             "SleepMusic",
             "SleepMusic.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "SleepWelcomePage",
-            "SleepWelcomePage.json"
-          ]
         }
       ],
       "configxml": null,
@@ -190,7 +214,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "SignUp",
+      "firstform": "LogIn",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
