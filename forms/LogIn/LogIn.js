@@ -49,3 +49,7 @@ Button6.onclick = function() {
   ChangeForm(SignUp)
 }
 
+
+Button2.onclick=function(){
+  ChangeForm(SignUp)
+}
