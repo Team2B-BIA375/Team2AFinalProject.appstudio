@@ -118,6 +118,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "Diet",
+            "Diet.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "RealDiet",
             "RealDiet.json"
           ]
