@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnBacktoHome",
-  "left": 166,
+  "left": 15,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 430,
+  "top": 427,
   "value": "Return to Diet Home Page",
   "width": 158
 }

@@ -3,14 +3,19 @@ legsContinue.onclick = function() {
   ChangeForm(Duration)
 }
  
+//quadsDropdown = ''
+//quadsSets = ''
+//quadsReps = ''
+//quadsWeight = ''
+
 
 quadsSubmit.onclick=function(){
-  let quadsDropdown = quadsDropdown.selection
+  let quadsDropdown = quadsDropdown.value
   let quadsSets = quadsSets.value
   let quadsReps = quadsReps.value
   let quadsWeight = quadsWeight.value
   
-  let query = "INSERT into exercise(workout_id, name, reps, sets, weight, body_part) VALUES((SELECT workout_id FROM workout WHERE user_id = " + user_id + " AND `date` = ' " + workout_date + "' AND body_part = '" + exercise_group + "'),'" + quadsDropdown + "', " + quadsReps + ", '" + quadsSets + "','" + quadsWeight + "', 'Legs'"
+  query = "INSERT into exercise(workout_id, name, reps, sets, weight, body_part) VALUES((SELECT workout_id FROM workout WHERE user_id = " + user_id + " AND `date` = ' " + workout_date + "' AND body_part = '" + exercise_group + "'),'" + quadsDropdown + "', " + quadsReps + ", '" + quadsSets + "','" + quadsWeight + "', 'Legs'"
 }
 
 req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
