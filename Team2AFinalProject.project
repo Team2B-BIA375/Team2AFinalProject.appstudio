@@ -22,6 +22,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "LogIn",
+            "LogIn.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "SignUp",
             "SignUp.json"
           ]
@@ -176,14 +184,6 @@
             "forms",
             "SleepMusic",
             "SleepMusic.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "SleepWelcomePage",
-            "SleepWelcomePage.json"
           ]
         }
       ],
