@@ -177,14 +177,6 @@
             "SleepMusic",
             "SleepMusic.json"
           ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "SleepWelcomePage",
-            "SleepWelcomePage.json"
-          ]
         }
       ],
       "configxml": null,
