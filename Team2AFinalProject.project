@@ -22,6 +22,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "LogIn",
+            "LogIn.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "SignUp",
             "SignUp.json"
           ]
