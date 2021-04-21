@@ -38,6 +38,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "Welcome_Fitness",
+            "Welcome_Fitness.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "Legs",
             "Legs.json"
           ]
@@ -120,6 +128,14 @@
             "forms",
             "Recipes",
             "Recipes.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "SleepWelcomePage",
+            "SleepWelcomePage.json"
           ]
         },
         {
