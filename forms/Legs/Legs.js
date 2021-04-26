@@ -1,3 +1,10 @@
+quadsDropdown.onclick=function(s){
+  if (typeof(s) == "object"){  // means the control was clicked 
+    return                     // but no selection made yet so do nothing
+  } else {                     // a selection made
+    quadsDropdown.value = s     // make dropdown show choice the user made
+  }
+}
 
 legsContinue.onclick = function() {
   ChangeForm(Duration)
