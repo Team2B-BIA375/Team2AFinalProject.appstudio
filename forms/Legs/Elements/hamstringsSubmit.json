@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "hamstringsSubmit",
-  "left": 235,
+  "left": 233,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 273,
+  "top": 380,
   "value": "Submit",
   "width": "auto"
 }
