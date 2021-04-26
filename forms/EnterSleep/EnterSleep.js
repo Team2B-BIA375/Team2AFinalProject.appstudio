@@ -5,6 +5,7 @@ let database = '375groupa2'
 */
 
 hmbGlobal.onclick=function(s){
+
   if (typeof(s) == "object") 
     return
   else {
@@ -84,4 +85,12 @@ pgnMySleep.onclick=function(s){ // when just click the control. 's' is
                 break
        }  //switch
    } //else
+}
+
+pgnMySleep.onclick=function(s){
+  if (typeof(s) == "object"){  // means the control was clicked 
+    return                     // but no selection made yet so do nothing
+  } else {                     // a selection made
+    pgnMySleep.value = s     // make dropdown show choice the user made
+  }
 }
