@@ -2,14 +2,14 @@
 let netID = 'trp36501'
 let pw = 'Forwarding12*'
 let database = '375groupa2' */
-let workout_date = ' '
-
+let workout_date = ''
 let exercise_group = ''
 let s = ''
+
 BtnNext.onclick = function(s) {  
-  let workout_date = welcomeDate.value
+    workout_date = welcomeDate.value
     exercise_group = drpExerciseGroup.value
- query = "INSERT INTO workout (user_id, `date`, body_part)   VALUES ('" + user_id + "', '" + workout_date + "', '" + exercise_group + "')"
+ query = "INSERT INTO workout (user_id, `date`, body_part)   VALUES (" + user_id + ", '" + workout_date + "', '" + exercise_group + "')"
 
 req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
 
@@ -32,7 +32,8 @@ if (drpExerciseGroup.value == "Legs") {
   } else  {
     ChangeForm(Cardio)
     }
-     
+
+
 }
 
 drpExerciseGroup.onclick=function(s){
@@ -42,4 +43,3 @@ drpExerciseGroup.onclick=function(s){
    drpExerciseGroup.value = s
     }
 }
-
