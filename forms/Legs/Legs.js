@@ -19,7 +19,8 @@ Legs.onshow=function(){
    if (req.status == 200) { //transit trip worked. 
         results = JSON.parse(req.responseText)
         workoutID = results
-        console.log(`Your workout ID is ${workoutID}`)
+        console.log(`Your workout ID is ${workoutID
+        }`)
     } else   // the transit didn't work - bad wifi? server turned off?
         lblLegsCheck.value = "Error code: " + req.status
 }
