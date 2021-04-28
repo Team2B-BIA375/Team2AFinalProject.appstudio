@@ -32,7 +32,7 @@
   "icon": "caret",
   "id": "drpExerciseGroup",
   "items": "Legs \nUpper Body: Push \nUpper Body: Pull \nAbs \nCardio",
-  "left": 67,
+  "left": 84,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 253,
+  "top": 302,
   "value": "Exercise Groups",
   "width": "auto"
 }
