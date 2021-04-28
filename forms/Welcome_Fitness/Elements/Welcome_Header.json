@@ -12,14 +12,14 @@
   "display": "block",
   "expanded_pmp": null,
   "fontFamily": "",
-  "fontSize": "",
+  "fontSize": "22",
   "fontStyle": "",
   "fontWeight": "",
   "height": 71,
   "hidden": "",
   "id": "Welcome_Header",
   "labelStyle": "text",
-  "left": 60,
+  "left": 25,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -41,8 +41,8 @@
   "pTop": "",
   "right": "auto",
   "script": "",
-  "style": "",
-  "top": 16,
+  "style": "text-align:center",
+  "top": 71,
   "value": "Let's record your fitness progress for today",
-  "width": 194
+  "width": 264
 }

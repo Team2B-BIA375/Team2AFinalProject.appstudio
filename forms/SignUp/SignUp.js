@@ -13,7 +13,6 @@ Button3.onclick=function(){
     console.log(`req.responseText is a JSON string that looks like this: ${req.responseText}`)
     results = JSON.parse(req.responseText) 
     }
-
    
   ChangeForm(LogIn)
 }
@@ -22,8 +21,3 @@ Button4.onclick=function(){
   ChangeForm(LogIn)
 }
 
-
-
-Button7.onclick=function(){
-  ChangeForm(Welcome)
-}

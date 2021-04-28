@@ -15,11 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 31,
   "hidden": "",
   "id": "lblMyDateMessage",
   "labelStyle": "text",
-  "left": 138,
+  "left": 72,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 406,
-  "value": "Label",
-  "width": "auto"
+  "top": 429,
+  "value": "",
+  "width": 195
 }

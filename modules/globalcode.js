@@ -1,1 +1,1 @@
-//NSBPage.appendChild(hdrGlobal);
+NSBPage.appendChild(hdrGlobal);

@@ -4,12 +4,26 @@
 //quadsWeight = ''
 
 let listLegExercises = ['Leg Extension', 'Lunges', 'Split', 'Squats']
+let workoutID = ""
 
 Legs.onshow=function(){
   quadsDropdown.clear()
   for (i = 0; i < listLegExercises.length; i++) 
         quadsDropdown.addItem(listLegExercises[i])
+
+  query = "SELECT workout_id FROM workout WHERE user_id = " + user_id + " AND `date` = '" + workout_date + "' AND body_part = '" + exercise_group + "'"
+
+
+  req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
+
+   if (req.status == 200) { //transit trip worked. 
+        results = JSON.parse(req.responseText)
+        workoutID = results
+        console.log(`Your workout ID is ${workoutID}`)
+    } else   // the transit didn't work - bad wifi? server turned off?
+        lblLegsCheck.value = "Error code: " + req.status
 }
+
 
 
 legsContinue.onclick = function() {
@@ -38,7 +52,7 @@ quadsSubmit.onclick=function(){
   console.log(`quadsRep is: ${quadsRep}`)
   console.log(`quadsWeights is: ${quadsWeights}`)
   
-  query = "INSERT into exercise(workout_id, name, reps, sets, weight, body_part) VALUES((SELECT workout.workout_id FROM workout WHERE workout.user_id = " + user_id + " AND `date` = '" + workout_date + "' AND body_part = '" + exercise_group + "'),'" + quadsActivity + "', " + quadsRep + "," + quadsSet + "," + quadsWeights + ", 'Legs')"
+  query = "INSERT into exercise(workout_id, name, reps, sets, weight, body_part) VALUES(" + workoutID + ", '" + quadsActivity + "', " + quadsRep + "," + quadsSet + "," + quadsWeights + ", 'Legs')"
 
 
 req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
