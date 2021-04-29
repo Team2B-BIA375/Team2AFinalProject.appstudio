@@ -94,14 +94,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "Duration",
-            "Duration.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "Final",
             "Final.json"
           ]
@@ -112,6 +104,14 @@
             "forms",
             "mobileNav",
             "mobileNav.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Diet",
+            "Diet.json"
           ]
         },
         {

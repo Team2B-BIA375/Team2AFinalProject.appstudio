@@ -1,6 +1,6 @@
 
 pullContinue.onclick = function() {
-  ChangeForm(Duration)
+  ChangeForm(Final)
 }
 
 /*
