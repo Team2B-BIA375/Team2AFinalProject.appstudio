@@ -133,7 +133,7 @@
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
+  "height": "460",
   "id": "EnterSleep",
   "language": "JavaScript",
   "left": "0",

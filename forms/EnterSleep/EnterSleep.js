@@ -5,6 +5,7 @@ let database = '375groupa2'
 */
 
 hmbGlobal.onclick=function(s){
+
   if (typeof(s) == "object") 
     return
   else {
@@ -61,9 +62,16 @@ btnNextPastSleep.onclick=function(){
   ChangeForm(PastSleep)
 }
 
-pgnMySleep.onclick=function(s){ // when just click the control. 's' is
-                              // the object returned
-    if (typeof(s) == "object") { // do nothing - they just clicked on the control
+pgnMySleep.onclick=function(s){
+  if (typeof(s) == "object"){  // means the control was clicked 
+    return                     // but no selection made yet so do nothing
+  } else {                     // a selection made
+    pgnMySleep.value = s 
+    console.log(`You chose: ${s}`)// make dropdown show choice the user made
+  }
+  
+  
+  if (typeof(s) == "object") { // do nothing - they just clicked on the control
        return
     } else {
        switch(s) {
@@ -85,3 +93,4 @@ pgnMySleep.onclick=function(s){ // when just click the control. 's' is
        }  //switch
    } //else
 }
+

@@ -1,7 +1,7 @@
 {
   "!type": "Button_bs4",
   "ChangeForm": "",
-  "appearance": " btn-secondary",
+  "appearance": " btn-danger",
   "backgroundColor": "",
   "badge": "",
   "badgeAppearance": " badge-info",

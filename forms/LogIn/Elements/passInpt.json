@@ -30,7 +30,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "passInpt",
-  "inputType": "text",
+  "inputType": "password",
   "inputmode": "",
   "left": 3,
   "leftText": "",

@@ -44,7 +44,3 @@ submit.onclick = function() {
   }
 
 
-
-Button2.onclick = function() {
-  ChangeForm(SignUp)
-}

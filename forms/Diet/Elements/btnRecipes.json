@@ -1,7 +1,7 @@
 {
   "!type": "Button_bs4",
   "ChangeForm": "",
-  "appearance": " btn-secondary",
+  "appearance": " btn-danger",
   "backgroundColor": "",
   "badge": "",
   "badgeAppearance": " badge-info",
@@ -55,12 +55,12 @@
   "popPosition": "",
   "popStyle": "popover",
   "popTitle": "Title",
-  "right": "25",
+  "right": "20",
   "script": "",
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 199,
+  "top": 157,
   "value": "Recipes",
-  "width": 122
+  "width": "110"
 }

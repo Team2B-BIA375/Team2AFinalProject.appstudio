@@ -1,7 +1,7 @@
 {
   "!type": "Button_bs4",
   "ChangeForm": "",
-  "appearance": " btn-secondary",
+  "appearance": " btn-danger",
   "backgroundColor": "",
   "badge": "",
   "badgeAppearance": " badge-info",
@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnBacktoHome",
-  "left": 166,
+  "left": 161,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 430,
+  "top": 515,
   "value": "Return to Diet Home Page",
   "width": 158
 }

@@ -1,6 +1,6 @@
 
 pushContinue.onclick = function() {
-  ChangeForm(Duration)
+  ChangeForm(Final)
 }
 
 /*

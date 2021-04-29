@@ -1,3 +1,6 @@
+
+var testSource = ''
+
 // 1. *** use your own url copied from Postman ****
 let requestURL = "https://www.themealdb.com/api/json/v1/1/random.php?Key=1"
 
@@ -9,11 +12,12 @@ function onXHRLoad() {
     
  
     // 2. *** put your textarea control name here ****
-    txtanewRecipe.value = apiData.meals[0].strMeal + "\n" + message + "\n" + apiData.meals[0].strInstructions
-    
+    txtanewRecipe.value = apiData.meals[0].strMeal + "\n" + message + "\n" + apiData.meals[0].strInstructions 
     // if want to add to database call a function here that does that
     // addToDatabase()
     
+    document.querySelector(".recipePicture").src = `${apiData.meals[0].strMealThumb}`;
+  testSource = apiData.meals[0].strMealThumb
 }
 
 function callAPI(URL) {
@@ -66,3 +70,7 @@ btnreturnhome.onclick=function(){
   ChangeForm(Diet)
 }
 
+
+btnNewC.onclick=function(){
+  ChangeForm(FormC)
+}

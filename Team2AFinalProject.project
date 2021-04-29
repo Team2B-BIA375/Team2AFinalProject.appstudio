@@ -94,14 +94,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "Duration",
-            "Duration.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "Final",
             "Final.json"
           ]
@@ -112,38 +104,6 @@
             "forms",
             "mobileNav",
             "mobileNav.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "Diet",
-            "Diet.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "RealDiet",
-            "RealDiet.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "MealHistory",
-            "MealHistory.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "Recipes",
-            "Recipes.json"
           ]
         },
         {
@@ -192,6 +152,38 @@
             "forms",
             "SleepMusic",
             "SleepMusic.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Recipes",
+            "Recipes.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "MealHistory",
+            "MealHistory.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "RealDiet",
+            "RealDiet.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Diet",
+            "Diet.json"
           ]
         }
       ],
@@ -259,7 +251,7 @@
       "useStrict": "",
       "version": "1.0.0",
       "viewportFit": "cover",
-      "voltAppId": "",
+      "voltAppId": "OgCAgw",
       "voltDomain": ""
     }
   ],
