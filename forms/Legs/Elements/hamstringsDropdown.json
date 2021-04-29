@@ -32,7 +32,7 @@
   "icon": "caret",
   "id": "hamstringsDropdown",
   "items": "Squats\nLeg Curls\nGoblet Squats",
-  "left": 8,
+  "left": 6,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 193,
+  "top": 271,
   "value": "Hamstrings",
   "width": "auto"
 }

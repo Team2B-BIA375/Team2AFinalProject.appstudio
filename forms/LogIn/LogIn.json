@@ -14,18 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "Duration",
+        "LogIn",
         "Elements",
-        "durationInput.json"
+        "userInpt.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "Duration",
+        "LogIn",
         "Elements",
-        "durationContinue.json"
+        "passInpt.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogIn",
+        "Elements",
+        "submit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogIn",
+        "Elements",
+        "Button2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogIn",
+        "Elements",
+        "Label3.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogIn",
+        "Elements",
+        "Label4.json"
       ]
     }
   ],
@@ -35,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "Duration",
+  "id": "LogIn",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

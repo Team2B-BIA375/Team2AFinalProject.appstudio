@@ -1,6 +1,6 @@
 {
   "!type": "Label_bs4",
-  "appearance": "primary",
+  "appearance": "dark",
   "backgroundColor": "",
   "borderRadius": "0",
   "bottom": "auto",
@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblExerciseGroup",
   "labelStyle": "text",
-  "left": 27,
+  "left": 28,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "text-align:center",
-  "top": 184,
+  "top": 259,
   "value": "What kind of exercise are you doing?",
   "width": "auto"
 }

@@ -26,7 +26,7 @@
   "groupStyle": "",
   "grouping": "",
   "height": "auto",
-  "hidden": "",
+  "hidden": "display:none; ",
   "icon": "menu",
   "iconTitle": "",
   "id": "Hamburger1",
