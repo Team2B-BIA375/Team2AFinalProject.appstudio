@@ -177,6 +177,14 @@
             "SleepMusic",
             "SleepMusic.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "mobileNav",
+            "mobileNav.json"
+          ]
         }
       ],
       "configxml": null,
