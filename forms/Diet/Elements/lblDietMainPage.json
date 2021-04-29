@@ -1,6 +1,6 @@
 {
   "!type": "Label_bs4",
-  "appearance": "primary",
+  "appearance": "dark",
   "backgroundColor": "",
   "borderRadius": "0",
   "bottom": "auto",
@@ -8,14 +8,14 @@
   "cached_js_script_hash": "d41d8cd98f00b204e9800998ecf8427e",
   "children": [],
   "class": "",
-  "color": "",
+  "color": "red",
   "display": "",
   "expanded_pmp": null,
   "fontFamily": "",
   "fontSize": "32",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 49,
+  "height": 67,
   "hidden": "",
   "id": "lblDietMainPage",
   "labelStyle": "text",
@@ -42,7 +42,7 @@
   "right": "25",
   "script": "",
   "style": "text-align:center",
-  "top": 77,
+  "top": 60,
   "value": "Diet Home Page",
   "width": 347
 }

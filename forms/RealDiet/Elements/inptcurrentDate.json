@@ -25,14 +25,14 @@
   "footer": "",
   "header": "Current Date",
   "headerCols": 2,
-  "height": 54,
+  "height": 90,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "inptcurrentDate",
   "inputType": "date",
   "inputmode": "",
-  "left": 11,
+  "left": 5,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -83,9 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 341,
+  "top": 417,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": "350"
+  "width": 312
 }
