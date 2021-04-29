@@ -24,12 +24,12 @@
   "fontWeight": "",
   "groupStyle": "",
   "grouping": "",
-  "height": 34,
+  "height": "auto",
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "btnBacktoHome",
-
+  "left": 17,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -55,13 +55,12 @@
   "popPosition": "",
   "popStyle": "popover",
   "popTitle": "Title",
-  "right": "10",
+  "right": "auto",
   "script": "",
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
- MatthewDietForms
-  "top": 515,
-  "value": "Return to Diet Home Page",
-  "width": 158
+  "top": 510,
+  "value": "Back to Home",
+  "width": "auto"
 }

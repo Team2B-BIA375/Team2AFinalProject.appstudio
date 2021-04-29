@@ -90,6 +90,24 @@
         "Elements",
         "inptcarbs.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RealDiet",
+        "Elements",
+        "btnSumbit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RealDiet",
+        "Elements",
+        "btnBacktoHome.json"
+      ]
     }
   ],
   "class": "",
