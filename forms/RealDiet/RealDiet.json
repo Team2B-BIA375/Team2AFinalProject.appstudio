@@ -34,15 +34,6 @@
         "forms",
         "RealDiet",
         "Elements",
-        "btnSumbit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "RealDiet",
-        "Elements",
         "inptfoodType.json"
       ]
     },
@@ -71,15 +62,6 @@
         "RealDiet",
         "Elements",
         "lblEntryInput.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "RealDiet",
-        "Elements",
-        "btnBacktoHome.json"
       ]
     },
     {
