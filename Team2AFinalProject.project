@@ -96,7 +96,6 @@
             "forms",
             "Final",
             "Final.json"
-
           ]
         },
         {
@@ -105,6 +104,30 @@
             "forms",
             "Diet",
             "Diet.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "RealDiet",
+            "RealDiet.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "MealHistory",
+            "MealHistory.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Recipes",
+            "Recipes.json"
           ]
         },
         {
@@ -153,38 +176,6 @@
             "forms",
             "SleepMusic",
             "SleepMusic.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "Recipes",
-            "Recipes.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "MealHistory",
-            "MealHistory.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "RealDiet",
-            "RealDiet.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "Diet",
-            "Diet.json"
           ]
         }
       ],
