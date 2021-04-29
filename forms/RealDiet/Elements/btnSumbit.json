@@ -24,12 +24,12 @@
   "fontWeight": "",
   "groupStyle": "",
   "grouping": "",
-  "height": 33,
+  "height": "auto",
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "btnSumbit",
-
+  "left": 113,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -55,13 +55,12 @@
   "popPosition": "",
   "popStyle": "popover",
   "popTitle": "Title",
-  "right": "190",
+  "right": "auto",
   "script": "",
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
- MatthewDietForms
-  "top": 514,
+  "top": 513,
   "value": "Submit",
-  "width": 113
+  "width": "auto"
 }
