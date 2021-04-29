@@ -6,8 +6,8 @@ btnSumbit.onclick = function() {
     let Carbs = inptcarbs.value
     let foodType = inptfoodType.value
     let currentDate = inptcurrentDate.value
+ MatthewDietForms
         let query = "INSERT INTO diet (`Calories`,`Meal_Type`, `user_id`, `DATE`, `Fats`, `Carbs`, `Protein`, `Food_Type`) VALUES (" + calories + ", '" + mealType + "', " + user_id + ",'" + currentDate + "', " + Fats + ", " + Carbs + ", " + Protein + ",' " + foodType + "')"    
-
 
 
     req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=375groupa2&query=" + query)
