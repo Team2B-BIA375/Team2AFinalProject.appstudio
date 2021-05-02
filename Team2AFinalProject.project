@@ -102,14 +102,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "mobileNav",
-            "mobileNav.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "Diet",
             "Diet.json"
           ]
@@ -184,6 +176,14 @@
             "forms",
             "SleepMusic",
             "SleepMusic.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "mobileNav",
+            "mobileNav.json"
           ]
         }
       ],

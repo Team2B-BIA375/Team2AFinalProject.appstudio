@@ -10,7 +10,7 @@ btnsubmit.onclick = function() {
         else {
             let message = ""
             for (i = 0; i < results.length; i++)
-                message = message + 'Meal Type: ' + results[i][1]+ '  \n '+ 'User: ' + results[i][2] + ' \n '+ 'Calories: ' + results[i][5] +' \n '+ 'Proteins: ' + results[i][4] +' \n '+ 'Fats: ' + results[i][6] +' \n '+ 'Carbs: ' + results[i][7] + ' '  + "\n"
+                message = message + 'Meal Type: ' + results[i][1]+ '  \n '+ 'Food Type: ' + results[i][8]+ '  \n ' + 'User: ' + results[i][2] + ' \n '+ 'Calories: ' + results[i][5] +' \n '+ 'Proteins: ' + results[i][4] +' \n '+ 'Fats: ' + results[i][6] +' \n '+ 'Carbs: ' + results[i][7] + ' '  + "\n"
             txtaResults.value = message
         }
     } else

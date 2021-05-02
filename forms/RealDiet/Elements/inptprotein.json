@@ -5,7 +5,7 @@
   "autocapitalize": "",
   "autocomplete": "",
   "autocorrect": "",
-  "backgroundColor": "",
+  "backgroundColor": "black",
   "badge": "",
   "badgeAppearance": " badge-info",
   "bottom": "auto",
@@ -13,7 +13,7 @@
   "cached_js_script_hash": "d41d8cd98f00b204e9800998ecf8427e",
   "children": [],
   "class": "",
-  "color": "",
+  "color": "Blue",
   "datalist": "",
   "disabled": "",
   "display": "",
@@ -31,6 +31,7 @@
   "iconTitle": "",
   "id": "inptprotein",
   "inputType": "number",
+
   "inputmode": "numeric",
   "left": 200,
   "leftText": "",
@@ -83,6 +84,7 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
+
   "top": 196,
   "validation": "",
   "value": "",

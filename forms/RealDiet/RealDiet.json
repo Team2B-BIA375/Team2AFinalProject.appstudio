@@ -34,15 +34,6 @@
         "forms",
         "RealDiet",
         "Elements",
-        "btnSumbit.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "RealDiet",
-        "Elements",
         "inptfoodType.json"
       ]
     },
@@ -79,15 +70,6 @@
         "forms",
         "RealDiet",
         "Elements",
-        "btnBacktoHome.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "RealDiet",
-        "Elements",
         "inptfats.json"
       ]
     },
@@ -108,14 +90,32 @@
         "Elements",
         "inptcarbs.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RealDiet",
+        "Elements",
+        "btnSumbit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "RealDiet",
+        "Elements",
+        "btnBacktoHome.json"
+      ]
     }
   ],
   "class": "",
-  "designHeight": 0,
+  "designHeight": 550,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
+  "height": "500",
   "id": "RealDiet",
   "language": "JavaScript",
   "left": "0",

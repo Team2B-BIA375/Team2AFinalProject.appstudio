@@ -2,7 +2,7 @@
   "!type": "Dropdown_bs4",
   "align": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "",
+  "backgroundColor": "black",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -14,7 +14,7 @@
   "cached_js_script_hash": "d41d8cd98f00b204e9800998ecf8427e",
   "children": [],
   "class": "",
-  "color": "",
+  "color": "White",
   "disabled": "",
   "display": "",
   "dropdown": "dropdown",
@@ -58,11 +58,12 @@
   "popPosition": "",
   "popStyle": "popover",
   "popTitle": "Title",
-  "right": "10",
+  "right": "200",
   "script": "",
   "size": " btn-md",
   "style": "",
   "top": 74,
+
   "value": "Meal Type",
-  "width": "auto"
+  "width": "110"
 }

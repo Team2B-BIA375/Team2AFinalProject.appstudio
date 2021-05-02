@@ -1,6 +1,6 @@
 {
   "!type": "Label_bs4",
-  "appearance": "primary",
+  "appearance": "danger",
   "backgroundColor": "",
   "borderRadius": "0",
   "bottom": "auto",
@@ -19,6 +19,7 @@
   "hidden": "",
   "id": "lblEntryInput",
   "labelStyle": "text",
+
   "left": 4,
   "mAll": "",
   "mBottom": "",
@@ -42,6 +43,7 @@
   "right": "100",
   "script": "",
   "style": "",
+
   "top": 34,
   "value": "Food Entry Inputs",
   "width": 178

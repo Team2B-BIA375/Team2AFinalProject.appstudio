@@ -2,7 +2,7 @@
   "!type": "Button_bs4",
   "ChangeForm": "",
   "appearance": " btn-secondary",
-  "backgroundColor": "",
+  "backgroundColor": "black",
   "badge": "",
   "badgeAppearance": " badge-info",
   "blockLevel": "",
@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnBacktoHomepage",
-  "left": "25",
+  "left": 25,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 400,
+  "top": 414,
   "value": "Return To Home Page",
-  "width": "auto"
+  "width": "275"
 }

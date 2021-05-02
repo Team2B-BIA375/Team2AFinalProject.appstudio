@@ -1,7 +1,7 @@
 {
   "!type": "Button_bs4",
   "ChangeForm": "",
-  "appearance": " btn-danger",
+  "appearance": " btn-secondary",
   "backgroundColor": "",
   "badge": "",
   "badgeAppearance": " badge-info",
@@ -28,15 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnSumbit",
-
-  "left": 190,
+  "id": "btnNewC",
+  "left": 118,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "btnSumbit.onclick()",
+  "onclick": "btnNewC.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -61,9 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-
-  "top": 426,
-
-  "value": "Submit",
+  "top": 513,
+  "value": "Button",
   "width": "auto"
 }

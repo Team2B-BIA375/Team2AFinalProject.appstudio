@@ -25,6 +25,7 @@
   "footer": "",
   "header": "Food Type",
   "headerCols": 2,
+
   "height": 90,
   "hidden": "",
   "icon": "",
@@ -83,6 +84,7 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
+
   "top": 107,
   "validation": "",
   "value": "",
