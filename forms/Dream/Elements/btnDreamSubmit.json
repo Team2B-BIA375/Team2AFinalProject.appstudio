@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnDreamSubmit",
-  "left": 126,
+  "left": 128,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-sm",
   "style": "",
   "toggleControl": "",
-  "top": 196,
+  "top": 338,
   "value": "Submit",
   "width": "auto"
 }
