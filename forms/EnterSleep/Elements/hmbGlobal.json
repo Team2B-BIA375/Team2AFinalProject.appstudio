@@ -1,6 +1,6 @@
 {
   "!type": "Hamburger_bs4",
-  "align": " dropdown-menu-right",
+  "align": "",
   "appearance": " btn-secondary",
   "backgroundColor": "red",
   "badge": "",
@@ -31,7 +31,8 @@
   "iconTitle": "",
   "id": "hmbGlobal",
   "items": "!Where do you want to go?\nDiet\nFitness\nSleep\nLog Out",
-  "left": 280,
+
+  "left": 0,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
