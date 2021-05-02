@@ -15,11 +15,12 @@
   "fontSize": "20",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 48,
+  "height": 34,
   "hidden": "",
   "id": "lblEntryInput",
   "labelStyle": "text",
-  "left": 5,
+
+  "left": 4,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +43,8 @@
   "right": "100",
   "script": "",
   "style": "",
-  "top": 62,
+
+  "top": 34,
   "value": "Food Entry Inputs",
-  "width": 252
+  "width": 178
 }

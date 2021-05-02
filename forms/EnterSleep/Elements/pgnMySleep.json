@@ -19,7 +19,7 @@
   "fontStyle": "",
   "fontWeight": "",
   "height": 56,
-  "hidden": "",
+  "hidden": "display:none; ",
   "id": "pgnMySleep",
   "items": ">Log Sleep\nSleep Log\nLog Dream\nDream Log\nSleep Music",
   "left": "0",
