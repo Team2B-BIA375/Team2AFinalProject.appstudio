@@ -1,6 +1,6 @@
 
 absContinue.onclick = function() {
-  ChangeForm(Duration)
+  ChangeForm(Final)
 }
 
 

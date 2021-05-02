@@ -1,7 +1,7 @@
 {
   "!type": "Button_bs4",
   "ChangeForm": "",
-  "appearance": " btn-secondary",
+  "appearance": " btn-danger",
   "backgroundColor": "",
   "badge": "",
   "badgeAppearance": " badge-info",
@@ -14,7 +14,7 @@
   "cached_js_script_hash": "d41d8cd98f00b204e9800998ecf8427e",
   "children": [],
   "class": "",
-  "color": "",
+  "color": "white",
   "disabled": "",
   "display": "",
   "expanded_pmp": null,
@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnbackHomepage",
-  "left": "25",
+  "left": 25,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 373,
+  "top": 408,
   "value": "Return to Diet Home Page",
   "width": "auto"
 }

@@ -36,17 +36,26 @@
         "Elements",
         "btnNewRecipe.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Recipes",
+        "Elements",
+        "btnNewC.json"
+      ]
     }
   ],
   "class": "",
-  "designHeight": 0,
+  "designHeight": 600,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
+  "height": "600",
   "id": "Recipes",
   "language": "JavaScript",
-  "left": "0",
+  "left": "",
   "locked": false,
   "modal": "false",
   "onhide": "",
@@ -60,6 +69,6 @@
   "setFocusID": "",
   "style": "",
   "theme": "",
-  "top": "0",
-  "width": 320
+  "top": "",
+  "width": "500"
 }

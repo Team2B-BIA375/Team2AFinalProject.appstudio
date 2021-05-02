@@ -1,7 +1,7 @@
 {
   "!type": "Button_bs4",
   "ChangeForm": "",
-  "appearance": " btn-secondary",
+  "appearance": " btn-danger",
   "backgroundColor": "",
   "badge": "",
   "badgeAppearance": " badge-info",
@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnMealsHistory",
-  "left": "25",
+  "left": 26,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -55,12 +55,12 @@
   "popPosition": "",
   "popStyle": "popover",
   "popTitle": "Title",
-  "right": "25",
+  "right": "185",
   "script": "",
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 293,
+  "top": 283,
   "value": "Meals History",
-  "width": 134
+  "width": "110"
 }

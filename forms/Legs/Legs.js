@@ -28,7 +28,7 @@ Legs.onshow=function(){
 
 
 legsContinue.onclick = function() {
-  ChangeForm(Duration)
+  ChangeForm(Final)
 }
  
 quadsDropdown.onclick=function(s){
