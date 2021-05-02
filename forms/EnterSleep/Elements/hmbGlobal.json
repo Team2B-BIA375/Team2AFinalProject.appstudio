@@ -31,7 +31,7 @@
   "iconTitle": "",
   "id": "hmbGlobal",
   "items": "!Where do you want to go?\nDiet\nFitness\nSleep\nLog Out",
-  "left": "auto",
+  "left": 280,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -61,7 +61,7 @@
   "script": "",
   "size": " btn-md",
   "style": "float:left;",
-  "top": "auto",
+  "top": 0,
   "value": "",
   "width": 44
 }
