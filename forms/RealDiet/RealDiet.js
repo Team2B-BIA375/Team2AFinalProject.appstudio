@@ -6,7 +6,7 @@ btnSumbit.onclick = function() {
     let Carbs = inptcarbs.value
     let foodType = inptfoodType.value
     let currentDate = inptcurrentDate.value
- MatthewDietForms
+ //MatthewDietForms
         let query = "INSERT INTO diet (`Calories`,`Meal_Type`, `user_id`, `DATE`, `Fats`, `Carbs`, `Protein`, `Food_Type`) VALUES (" + calories + ", '" + mealType + "', " + user_id + ",'" + currentDate + "', " + Fats + ", " + Carbs + ", " + Protein + ",' " + foodType + "')"    
 
 
