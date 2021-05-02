@@ -29,8 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnSumbit",
-
-  "left": 190,
+  "left": 186,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -61,9 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-
-  "top": 426,
-
+  "top": 511,
   "value": "Submit",
   "width": "auto"
 }

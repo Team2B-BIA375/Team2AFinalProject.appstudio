@@ -31,7 +31,6 @@
   "iconTitle": "",
   "id": "inptprotein",
   "inputType": "number",
-
   "inputmode": "numeric",
   "left": 200,
   "leftText": "",
@@ -84,7 +83,6 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-
   "top": 196,
   "validation": "",
   "value": "",

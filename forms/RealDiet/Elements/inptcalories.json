@@ -31,10 +31,8 @@
   "iconTitle": "",
   "id": "inptcalories",
   "inputType": "number",
-
   "inputmode": "numeric",
   "left": 7,
-
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -85,7 +83,6 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-
   "top": 268,
   "validation": "",
   "value": "",
