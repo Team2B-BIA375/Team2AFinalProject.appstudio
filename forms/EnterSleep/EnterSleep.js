@@ -21,7 +21,6 @@ hmbGlobal.onclick=function(s){
             break
           case "Log Out":
             ChangeForm(LogIn)
-            user_id = ''
             break
        }  //switch
    } //else
