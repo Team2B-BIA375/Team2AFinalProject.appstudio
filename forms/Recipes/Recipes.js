@@ -71,6 +71,4 @@ btnreturnhome.onclick=function(){
 }
 
 
-btnNewC.onclick=function(){
-  ChangeForm(FormC)
-}
+
