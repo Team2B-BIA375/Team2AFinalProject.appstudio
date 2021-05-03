@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblDreamMessage",
   "labelStyle": "text",
-  "left": 6,
+  "left": 5,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "text-align:center",
-  "top": 380,
+  "top": 384,
   "value": "",
   "width": 318
 }
