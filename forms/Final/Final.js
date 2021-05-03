@@ -1,4 +1,3 @@
-
 BtnAnotherWorkout.onclick = function() {
   ChangeForm(Welcome_Fitness)
 }

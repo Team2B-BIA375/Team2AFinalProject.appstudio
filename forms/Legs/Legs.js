@@ -1,18 +1,8 @@
-//let quadsDropdown = ''
-//quadsSets = ''
-//quadsReps = ''
-//quadsWeight = ''
-
-let listLegExercises = ['Leg Extension', 'Lunges', 'Split', 'Squats']
 let workoutID = ""
 
 Legs.onshow=function(){
-  quadsDropdown.clear()
-  for (i = 0; i < listLegExercises.length; i++) 
-        quadsDropdown.addItem(listLegExercises[i])
 
   query = "SELECT workout_id FROM workout WHERE user_id = " + user_id + " AND `date` = '" + workout_date + "' AND body_part = '" + exercise_group + "'"
-
 
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
 
@@ -24,8 +14,6 @@ Legs.onshow=function(){
     } else   // the transit didn't work - bad wifi? server turned off?
         lblLegsCheck.value = "Error code: " + req.status
 }
-
-
 
 legsContinue.onclick = function() {
   ChangeForm(Final)
@@ -66,58 +54,75 @@ if (req.status == 200) { //transit worked.
     } else // transit error
         lblLegsCheck.value = "Error: " + req.status
 }
-/*
-hamstringsSubmit.onclick=function(){
-  let hamstringsDropdown = hamstringsDropdown.value
-  let hamstringsSets = hamstringsSets.value
-  let hamstringsReps = hamstringsReps.value
-  let hamstringsWeight = hamstringsWeight.value
-  // ATTENTION NEED TO FIX: let query = "INSERT into exercise(name, reps, sets) SELECT exercise_group_id, 'curls', 10, 3 FROM exercise_group EG INNER JOIN workout w ON EG.workout_id = w.workout_idWHERE user_id = 1 AND w.`date`= '04-13-2021';
-}
-
-req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + databaseSchema + "&query=" + query)
-
-if (req.status == 200) { //transit worked.
-        if (req.responseText == 500)    // for our server - this means the insert succeeded
-            lblMyDateMessage.value = "You have successfully logged your date!"
-        else
-            lblMyDateMessage.value = "There was a problem with logging your date to the database. Please try again or use the support function to contact us!"
-    } else // transit error
-        lblMyDateMessage.value = "Error: " + req.status
-
-calvesDropdown.onclick=function(){
-  let calvesDropdown = calvesDropdown.value
-  let calvesSets = calvesSets.value
-  let calvesReps = calvesReps.value
-  let calvesWeight = calvesWeight.value
-  // ATTENTION NEED TO FIX: let query = "INSERT into exercise(name, reps, sets) SELECT exercise_group_id, 'curls', 10, 3 FROM exercise_group EG INNER JOIN workout w ON EG.workout_id = w.workout_idWHERE user_id = 1 AND w.`date`= '04-13-2021';
-}
-
-req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + databaseSchema + "&query=" + query)
-
-if (req.status == 200) { //transit worked.
-        if (req.responseText == 500)    // for our server - this means the insert succeeded
-            lblMyDateMessage.value = "You have successfully logged your date!"
-        else
-            lblMyDateMessage.value = "There was a problem with logging your date to the database. Please try again or use the support function to contact us!"
-    } else // transit error
-        lblMyDateMessage.value = "Error: " + req.status
-
-
 
 hamstringsDropdown.onclick=function(s){
-  if (typeof(s) == 'object') {
-    return
-  } else {
-   hamstringsDropdown.value = s
-    }
+  if (typeof(s) == "object"){  // means the control was clicked 
+    return                     // but no selection made yet so do nothing
+  } else {                     // a selection made
+    hamstringsDropdown.value = s     // make dropdown show choice the user made
+  }
+}
+
+hamstringsSubmit.onclick=function(){
+  let hamstringsActivity = hamstringsDropdown.value
+  let hamstringsSet = hamstringsSets.value
+  let hamstringsRep = hamstringsReps.value
+  let hamstringsWeights = hamstringsWeight.value
+  
+  console.log(`user id is: ${user_id}`)
+  console.log(`date is: ${workout_date}`)
+  console.log(`body_type is: ${exercise_group}`)
+  console.log(`hamstringsActivity is: ${hamstringsActivity}`)
+  console.log(`hamstringsSet is: ${hamstringsSet}`)
+  console.log(`hamstringsRep is: ${hamstringsRep}`)
+  console.log(`hamstringsWeights is: ${hamstringsWeights}`)
+  
+  query = "INSERT into exercise(workout_id, name, reps, sets, weight, body_part) VALUES(" + workoutID + ", '" + hamstringsActivity + "', " + hamstringsRep + "," + hamstringsSet + "," + hamstringsWeights + ", 'Legs')"
+
+
+req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
+
+if (req.status == 200) { //transit worked.
+        if (req.responseText == 500)    // for our server - this means the insert succeeded
+            lblLegsCheck1.value = "Success!"
+        else
+            lblLegsCheck1.value = "There was a problem!"
+    } else // transit error
+        lblLegsCheck1.value = "Error: " + req.status
 }
 
 calvesDropdown.onclick=function(s){
-  if (typeof(s) == 'object') {
-    return
-  } else {
-   calvesDropdown.value = s
-    }
+  if (typeof(s) == "object"){  // means the control was clicked 
+    return                     // but no selection made yet so do nothing
+  } else {                     // a selection made
+    calvesDropdown.value = s     // make dropdown show choice the user made
+  }
 }
-*/
+
+calvesSubmit.onclick=function(){
+  let calvesActivity = calvesDropdown.value
+  let calvesSet = calvesSets.value
+  let calvesRep = calvesReps.value
+  let calvesWeights = calvesWeight.value
+  
+  console.log(`user id is: ${user_id}`)
+  console.log(`date is: ${workout_date}`)
+  console.log(`body_type is: ${exercise_group}`)
+  console.log(`calvesActivity is: ${calvesActivity}`)
+  console.log(`calvesSet is: ${calvesSet}`)
+  console.log(`calvesRep is: ${calvesRep}`)
+  console.log(`calvesWeights is: ${calvesWeights}`)
+  
+  query = "INSERT into exercise(workout_id, name, reps, sets, weight, body_part) VALUES(" + workoutID + ", '" + calvesActivity + "', " + calvesRep + "," + calvesSet + "," + calvesWeights + ", 'Legs')"
+
+
+req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
+
+if (req.status == 200) { //transit worked.
+        if (req.responseText == 500)    // for our server - this means the insert succeeded
+            lblLegsCheck2.value = "Success!"
+        else
+            lblLegsCheck2.value = "There was a problem!"
+    } else // transit error
+        lblLegsCheck2.value = "Error: " + req.status
+}

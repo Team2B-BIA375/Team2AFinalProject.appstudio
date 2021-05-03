@@ -31,8 +31,8 @@
   "hidden": "",
   "icon": "caret",
   "id": "tricepsDropdown",
-  "items": "Overhead Extension Tricep Kickback Skull Crushers",
-  "left": 5,
+  "items": "Overhead Extension\nTricep Kickback\nSkull Crushers",
+  "left": 18,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 288,
+  "top": 595,
   "value": "Triceps",
   "width": "auto"
 }

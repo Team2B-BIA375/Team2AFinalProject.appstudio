@@ -32,7 +32,7 @@
   "icon": "caret",
   "id": "absDropdown",
   "items": "Situps\nCrunches\nPenguin sides\nV Ups\nPlank",
-  "left": 4,
+  "left": 6,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 51,
+  "top": 113,
   "value": "Abs",
   "width": "auto"
 }

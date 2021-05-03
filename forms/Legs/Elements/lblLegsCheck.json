@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblLegsCheck",
   "labelStyle": "text",
-  "left": 7,
+  "left": 12,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 117,
+  "top": 193,
   "value": "",
   "width": 126
 }

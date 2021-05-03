@@ -1,7 +1,3 @@
-/*let user_id = 1
-let netID = 'trp36501'
-let pw = 'Forwarding12*'
-let database = '375groupa2' */
 let workout_date = ''
 let exercise_group = ''
 let s = ''
@@ -32,8 +28,6 @@ if (drpExerciseGroup.value == "Legs") {
   } else  {
     ChangeForm(Cardio)
     }
-
-
 }
 
 drpExerciseGroup.onclick=function(s){

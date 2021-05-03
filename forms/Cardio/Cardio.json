@@ -36,6 +36,24 @@
         "Elements",
         "cardioContinue.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Cardio",
+        "Elements",
+        "lblCardioCheck.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Cardio",
+        "Elements",
+        "cardioSubmit.json"
+      ]
     }
   ],
   "class": "",

@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "labelPull",
   "labelStyle": "text",
-  "left": 0,
+  "left": 2,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 2,
+  "top": 42,
   "value": "You have selected Upper Body: Pull! Pick which exercises you want to do",
   "width": 281
 }

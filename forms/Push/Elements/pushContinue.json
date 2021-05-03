@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "pushContinue",
-  "left": 4,
+  "left": 194,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 410,
+  "top": 147,
   "value": "Continue",
   "width": "auto"
 }

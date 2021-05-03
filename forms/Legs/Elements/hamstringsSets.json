@@ -25,14 +25,14 @@
   "footer": "",
   "header": "Sets",
   "headerCols": 2,
-  "height": 61,
+  "height": 41,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "hamstringsSets",
   "inputType": "text",
   "inputmode": "",
-  "left": 150,
+  "left": 143,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -83,9 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 221,
+  "top": 409,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 75
+  "width": 77
 }

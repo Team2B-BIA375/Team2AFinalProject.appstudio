@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "chestSubmit",
-  "left": 225,
+  "left": 231,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 130,
+  "top": 338,
   "value": "Submit",
   "width": "auto"
 }

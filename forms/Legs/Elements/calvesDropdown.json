@@ -32,7 +32,7 @@
   "icon": "caret",
   "id": "calvesDropdown",
   "items": "Standing Calf\nRaises Seated\nCalf Raises",
-  "left": 9,
+  "left": 6,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 443,
+  "top": 622,
   "value": "Calves",
   "width": "auto"
 }
