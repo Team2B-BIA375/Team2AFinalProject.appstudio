@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "labelAbs",
   "labelStyle": "text",
-  "left": 0,
+  "left": 1,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 2,
+  "top": 41,
   "value": "You have selected Abs! Pick which exercises you want to do",
   "width": 281
 }

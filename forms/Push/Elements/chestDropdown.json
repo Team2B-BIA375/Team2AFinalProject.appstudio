@@ -32,7 +32,7 @@
   "icon": "caret",
   "id": "chestDropdown",
   "items": "Bench Press\nIncline Bench\nCable Pushdown\nPushups",
-  "left": 4,
+  "left": 10,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 51,
+  "top": 184,
   "value": "Chest",
   "width": "auto"
 }

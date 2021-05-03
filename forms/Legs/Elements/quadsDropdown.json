@@ -31,8 +31,8 @@
   "hidden": "",
   "icon": "caret",
   "id": "quadsDropdown",
-  "items": "",
-  "left": 11,
+  "items": "Squats\nLeg Extension\nSplit Squats",
+  "left": 12,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 68,
+  "top": 143,
   "value": "Quadriceps",
   "width": 113
 }

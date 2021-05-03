@@ -25,14 +25,14 @@
   "footer": "",
   "header": "Reps",
   "headerCols": 2,
-  "height": 95,
+  "height": 71,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "calvesReps",
   "inputType": "text",
   "inputmode": "",
-  "left": 155,
+  "left": 138,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -83,9 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 446,
+  "top": 711,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 75
+  "width": 79
 }

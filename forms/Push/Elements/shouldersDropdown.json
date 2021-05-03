@@ -31,8 +31,8 @@
   "hidden": "",
   "icon": "caret",
   "id": "shouldersDropdown",
-  "items": "Seated Press Arnold Press Shoulder Fly's",
-  "left": 5,
+  "items": "Seated Press\nArnold Press\nShoulder Fly's",
+  "left": 8,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 170,
+  "top": 387,
   "value": "Shoulders",
   "width": "auto"
 }

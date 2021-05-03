@@ -63,6 +63,24 @@
         "Elements",
         "absSubmit.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Abs",
+        "Elements",
+        "lblAbsCheck.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Abs",
+        "Elements",
+        "absWeight.json"
+      ]
     }
   ],
   "class": "",

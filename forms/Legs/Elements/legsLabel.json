@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "legsLabel",
   "labelStyle": "text",
-  "left": 0,
+  "left": 3,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 6,
+  "top": 59,
   "value": "You have selected legs! Pick which exercises you want to do",
   "width": 237
 }

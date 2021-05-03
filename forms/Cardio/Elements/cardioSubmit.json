@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "absContinue",
-  "left": 216,
+  "id": "cardioSubmit",
+  "left": 219,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 261,
-  "value": "Continue",
+  "top": 106,
+  "value": "Submit",
   "width": "auto"
 }

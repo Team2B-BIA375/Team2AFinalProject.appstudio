@@ -25,14 +25,14 @@
   "footer": "",
   "header": "Weight",
   "headerCols": 2,
-  "height": 99,
+  "height": 70,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "calvesWeight",
   "inputType": "text",
   "inputmode": "",
-  "left": 236,
+  "left": 235,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -83,9 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 448,
+  "top": 614,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 75
+  "width": 79
 }

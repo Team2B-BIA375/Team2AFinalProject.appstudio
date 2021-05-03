@@ -31,8 +31,8 @@
   "hidden": "",
   "icon": "caret",
   "id": "hamstringsDropdown",
-  "items": "Squats\nLeg Curls\nGoblet Squats",
-  "left": 6,
+  "items": "Squats\nLeg Curls\nSingle Leg Squats",
+  "left": 8,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 271,
+  "top": 363,
   "value": "Hamstrings",
   "width": "auto"
 }

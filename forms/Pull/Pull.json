@@ -117,14 +117,32 @@
         "Elements",
         "bicepsSubmit.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Pull",
+        "Elements",
+        "lblPullCheck.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Pull",
+        "Elements",
+        "lblPullCheck1.json"
+      ]
     }
   ],
   "class": "",
-  "designHeight": 0,
+  "designHeight": 600,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
+  "height": "600",
   "id": "Pull",
   "language": "JavaScript",
   "left": "0",

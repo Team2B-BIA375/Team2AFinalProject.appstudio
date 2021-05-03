@@ -32,7 +32,7 @@
   "icon": "caret",
   "id": "bicepsDropdown",
   "items": "Bicep Curls\nHammer Curls\nPreacher Curls\nMilitary Curls",
-  "left": 2,
+  "left": 9,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -62,7 +62,7 @@
   "script": "",
   "size": " btn-md",
   "style": "",
-  "top": 170,
+  "top": 305,
   "value": "Biceps",
   "width": "auto"
 }

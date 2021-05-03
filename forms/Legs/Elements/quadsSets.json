@@ -25,14 +25,14 @@
   "footer": "",
   "header": "Sets",
   "headerCols": 2,
-  "height": 88,
+  "height": 67,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "quadsSets",
   "inputType": "text",
   "inputmode": "",
-  "left": 149,
+  "left": 150,
   "leftText": "",
   "mAll": "",
   "mBottom": "",
@@ -83,9 +83,9 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-  "top": 49,
+  "top": 167,
   "validation": "",
   "value": "",
   "valueCols": 10,
-  "width": 75
+  "width": 76
 }

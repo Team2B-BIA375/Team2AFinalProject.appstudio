@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "tricepsSubmit",
-  "left": 226,
+  "left": 229,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 397,
+  "top": 735,
   "value": "Submit",
   "width": "auto"
 }

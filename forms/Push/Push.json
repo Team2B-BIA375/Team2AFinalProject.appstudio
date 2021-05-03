@@ -162,14 +162,41 @@
         "Elements",
         "tricepsSubmit.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Push",
+        "Elements",
+        "lblPushCheck.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Push",
+        "Elements",
+        "lblPushCheck1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "Push",
+        "Elements",
+        "lblPushCheck2.json"
+      ]
     }
   ],
   "class": "",
-  "designHeight": 0,
+  "designHeight": 900,
   "designWidth": 0,
   "expanded_pmp": null,
   "fullScreen": "true",
-  "height": 460,
+  "height": "900",
   "id": "Push",
   "language": "JavaScript",
   "left": "0",

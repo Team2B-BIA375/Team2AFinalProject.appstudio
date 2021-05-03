@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "labelPush",
   "labelStyle": "text",
-  "left": 0,
+  "left": 7,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 2,
+  "top": 68,
   "value": "You have selected Upper Body: Push! Pick which exercises you want to do",
   "width": 281
 }
