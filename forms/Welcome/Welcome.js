@@ -1,13 +1,11 @@
-
-btnFitness.onclick=function(){
+btnFitness1.onclick=function(){
   ChangeForm(Welcome_Fitness)
 }
 
-
-btnDietPg.onclick=function(){
+btnDietPg1.onclick=function(){
   ChangeForm(Diet)
 }
 
-btnSleepPg.onclick=function(){
+btnSleepPg1.onclick=function(){
   ChangeForm(SleepWelcomePage)
 }
