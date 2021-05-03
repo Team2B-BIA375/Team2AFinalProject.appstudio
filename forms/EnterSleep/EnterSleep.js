@@ -20,7 +20,7 @@ hmbGlobal.onclick=function(s){
             ChangeForm(SleepWelcomePage)
             break
           case "Log Out":
-            ChangeForm(Login)
+            ChangeForm(LogIn)
             break
        }  //switch
    } //else
