@@ -36,15 +36,6 @@
         "Elements",
         "btnNewRecipe.json"
       ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "Recipes",
-        "Elements",
-        "btnNewC.json"
-      ]
     }
   ],
   "class": "",
